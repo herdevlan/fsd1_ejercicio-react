@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "cargo": "Desarrollador",
+    "activo": true
+  },
+  {
+    "id": 2,
+    "nombre": "María",
+    "apellido": "González",
+    "cargo": "Diseñadora",
+    "activo": false
+  },
+  {
+    "id": 3,
+    "nombre": "Carlos",
+    "apellido": "Martínez",
+    "cargo": "Gerente de Ventas",
+    "activo": true
+  },
+  {
+    "id": 4,
+    "nombre": "Laura",
+    "apellido": "Rodríguez",
+    "cargo": "Analista de Datos",
+    "activo": true
+  },
+  {
+    "id": 5,
+    "nombre": "José",
+    "apellido": "Sánchez",
+    "cargo": "Marketing",
+    "activo": false
+  },
+  {
+    "id": 6,
+    "nombre": "Ana",
+    "apellido": "López",
+    "cargo": "Diseñadora UX/UI",
+    "activo": true
+  },
+  {
+    "id": 7,
+    "nombre": "Pedro",
+    "apellido": "Torres",
+    "cargo": "Desarrollador Backend",
+    "activo": false
+  },
+  {
+    "id": 8,
+    "nombre": "Elena",
+    "apellido": "Mendoza",
+    "cargo": "Product Manager",
+    "activo": true
+  },
+  {
+    "id": 9,
+    "nombre": "Ricardo",
+    "apellido": "Ramírez",
+    "cargo": "DevOps Engineer",
+    "activo": true
+  },
+  {
+    "id": 10,
+    "nombre": "Sara",
+    "apellido": "Pérez",
+    "cargo": "Tester",
+    "activo": false
+  },
+  {
+    "id": 11,
+    "nombre": "David",
+    "apellido": "García",
+    "cargo": "Desarrollador Frontend",
+    "activo": true
+  },
+  {
+    "id": 12,
+    "nombre": "Isabel",
+    "apellido": "Vázquez",
+    "cargo": "Administrador de Bases de Datos",
+    "activo": false
+  },
+  {
+    "id": 13,
+    "nombre": "Javier",
+    "apellido": "Morales",
+    "cargo": "Desarrollador Backend",
+    "activo": true
+  },
+  {
+    "id": 14,
+    "nombre": "Marta",
+    "apellido": "Luna",
+    "cargo": "Científica de Datos",
+    "activo": false
+  },
+  {
+    "id": 15,
+    "nombre": "Andrés",
+    "apellido": "Álvarez",
+    "cargo": "Arquitecto de Software",
+    "activo": true
+  },
+  {
+    "id": 16,
+    "nombre": "Patricia",
+    "apellido": "Jiménez",
+    "cargo": "Gestora de Proyectos",
+    "activo": true
+  },
+  {
+    "id": 17,
+    "nombre": "Felipe",
+    "apellido": "Castaño",
+    "cargo": "Desarrollador Full Stack",
+    "activo": false
+  },
+  {
+    "id": 18,
+    "nombre": "Cristina",
+    "apellido": "Gómez",
+    "cargo": "Desarrolladora Backend",
+    "activo": true
+  },
+  {
+    "id": 19,
+    "nombre": "Iván",
+    "apellido": "Suárez",
+    "cargo": "Ingeniero de Software",
+    "activo": true
+  },
+  {
+    "id": 20,
+    "nombre": "Alejandro",
+    "apellido": "Moreno",
+    "cargo": "Especialista en Inteligencia Artificial",
+    "activo": false
+  },
+  {
+    "id": 21,
+    "nombre": "Vanessa",
+    "apellido": "Hernández",
+    "cargo": "Desarrolladora Frontend",
+    "activo": true
+  },
+  {
+    "id": 22,
+    "nombre": "Óscar",
+    "apellido": "Ramírez",
+    "cargo": "Administrador de Sistemas",
+    "activo": false
+  },
+  {
+    "id": 23,
+    "nombre": "Rocío",
+    "apellido": "López",
+    "cargo": "Especialista en Cloud Computing",
+    "activo": true
+  },
+  {
+    "id": 24,
+    "nombre": "Luis",
+    "apellido": "Gutiérrez",
+    "cargo": "CIO",
+    "activo": true
+  }
+]
